@@ -11,7 +11,7 @@ body, html {
     
 }
 .left {
-    background: url('./assets/img1.jpg') no-repeat center center;
+    background: url('img1.jpg') no-repeat center center;
     background-size: cover;
     width: 50%;
     position: relative;
